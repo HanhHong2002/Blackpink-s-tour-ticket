@@ -135,7 +135,7 @@ html{
     margin-top: 46px;
     background-color: pink;
     padding-top: 38%;
-    background: url('/Blackpink-s-tour-ticket/asset/img/1.png') top center / cover no-repeat;
+    background: url('../img/1.png') top center / cover no-repeat;
     position: relative;
 
 }
